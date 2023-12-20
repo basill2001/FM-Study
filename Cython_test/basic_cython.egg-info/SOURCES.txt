@@ -1,0 +1,7 @@
+basic_cython.c
+setup.py
+setup2.py
+basic_cython.egg-info/PKG-INFO
+basic_cython.egg-info/SOURCES.txt
+basic_cython.egg-info/dependency_links.txt
+basic_cython.egg-info/top_level.txt
